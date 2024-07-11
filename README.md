@@ -31,10 +31,10 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Hablando de cosas personales......***
 
 ✔ Me apasiona la tecnología, el desarrollo personal y los viajes. 😉 <br>
-✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**<br>
-✔ I’m currently learning **ReactJS** & **NodeJS**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
+✔ Disfruto leer libros de liderazgo y practicar el futbol.<br>
+✔ También soy voluntaria en mi comunidad.<br>
+✔ En mi tiempo libre, organizo reuniones con amigos y familiares.<br>
+✔ Me gusta explorar nuevas culturas viajando.<br>
 ✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles) <br>
 ✔ I use to write coad on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
