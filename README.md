@@ -31,14 +31,14 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Hablando de cosas personales......***
 
 ✔ Me apasiona la tecnología, el desarrollo personal y los viajes. 😉 <br>
-✔ Disfruto leer libros de liderazgo y practicar el futbol.<br>
+✔ Disfruto leer libros de liderazgo y practicar deporte.<br>
 ✔ También soy voluntaria en mi comunidad.<br>
 ✔ En mi tiempo libre, organizo reuniones con amigos y familiares.<br>
 ✔ Me gusta explorar nuevas culturas viajando.<br>
-✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles) <br>
-✔ I use to write coad on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+✔ En mi tiempo libre, me encanta pasar tiempo con mi familia.<br>
+✔ Valoro los momentos familiares y disfruto de las reuniones con seres queridos. <br>
+✔ Aprecio mucho los momentos que paso con mis amigos.😉<br>
+✔ Mis valores incluyen la ética profesional, la colaboración y la empatía.<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
