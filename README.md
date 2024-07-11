@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png" height="200"/>
+  <img src="https://www.facebook.com/photo/?fbid=2448153908780467&set=a.1382146165381252" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Angelica Anabel</h1>
