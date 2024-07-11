@@ -18,10 +18,7 @@
 
 <p align="center">
   <em>
-    Esta soy yo Angelica Anabel, estudiante de último año de la Facultad de Ciencias de la Ingeniería y Aplicadas Carrera Sistemas de Información. <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    Hola, soy Angelica Anabel, estudiante de último año de la Facultad de Ciencias de la Ingeniería y Aplicadas, en la carrera de Sistemas de Información <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Estoy obsesionada con la idea de mejorar a mí misma, tanto personal como profesionalmente.</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>Me apasiona aprender nuevas tecnologías y metodologías que puedan optimizar procesos y mejorar la eficiencia en los proyectos en los que participo. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">Estoy constantemente buscando oportunidades para crecer y adquirir nuevos conocimientos que me permitan contribuir de manera significativa en el campo de la ingeniería y los sistemas de información. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
