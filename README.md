@@ -30,7 +30,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Hablando de cosas personales......***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+✔ Me apasiona la tecnología, el desarrollo personal y los viajes. 😉 <br>
 ✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**<br>
 ✔ I’m currently learning **ReactJS** & **NodeJS**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
